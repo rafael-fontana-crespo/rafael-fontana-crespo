@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on the design and development of Digital twins of Wave Energy Converters (WEC). This includes using ML for forecasting energy production. Moreover, I am also employing ML to develop surrogate models for WEC's design optimisation process.
+- ⚡ I'm interested in Internet of Things, Smart Cities, Cloud technology, and machine learning
 <!--
 **rafael-fontana-crespo/rafael-fontana-crespo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
